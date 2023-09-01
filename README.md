@@ -9,7 +9,7 @@ Welcome to the Advanced PC Toolbox! This Python program provides a variety of us
 
 Before you can use the toolbox, make sure you have the required Python libraries installed. Run the following commands in your command prompt or terminal:
 
-```bash
+
 pip install beautifulsoup4
 pip install sympy
 pip install pyperclip
